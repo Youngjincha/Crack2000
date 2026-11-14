@@ -1,4 +1,4 @@
-crops_2000: the frozen crop set used for SDDNet and QSDDNet training and testing
+crops_2000: the frozen crop set used for SDDNet and STRNet training and testing
 
 2,000 crops of 1024 x 512 px (width x height), cut from the STRNet dataset
 (Kang & Cha 2022): 1,740 images after 8 duplicates were removed.
